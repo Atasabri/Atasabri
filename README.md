@@ -1,4 +1,4 @@
-### Hi there 👋 Iam Ata Sabri Ahmed <img src="https://avatars1.githubusercontent.com/u/20510970?s=460&u=f274857fbeca229272b2c161c5cd6c571dd86052&v=4" width="50" height="50" style="border-radius:50%;" />
+### Hi there 👋 Iam Ata Sabri Ahmed <img src="https://avatars1.githubusercontent.com/u/20510970?s=460&u=f274857fbeca229272b2c161c5cd6c571dd86052&v=4" width="50" height="50" style="border-radius:50px;" />
 
 ### Software Engineer ⚡⚡
 
