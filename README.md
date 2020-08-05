@@ -1,6 +1,6 @@
 ### Hi there 👋 Iam Ata Sabri Ahmed
 
-### .Net & .Net Core Developer ⚡⚡
+### Software Engineer ⚡⚡
 
 
 <!--
