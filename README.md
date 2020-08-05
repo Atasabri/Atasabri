@@ -15,24 +15,24 @@
 -->
  #### Skills 
 
-■ .Net & .Net Core Framework
-■ C# Programming Language
-■ Python Programming Language
-■ OOP (Object Oriented Programming)
-■ Asp.net (Web Forms – MVC – Core)
-■ SQL Server
-■ Entity Framework (Database First – Code First)
-■ Entity Framework Core
-■ ADO.net & LINQ
-■ Restful API
-■ SignalR
-■ Html – CSS – JavaScript
-■ jQuery – jQuery Ajax
-■ React JS
-■ Windows Applications Basics
-■ Xamarin Android Basics
-■ TFS, Git, GitHub
-■ Microservices, SOA
-■ Design Pattern
-■ Solid Design Principles
+■ .Net & .Net Core Framework <br/>
+■ C# Programming Language <br/>
+■ Python Programming Language <br/>
+■ OOP (Object Oriented Programming) <br/>
+■ Asp.net (Web Forms – MVC – Core) <br/>
+■ SQL Server  <br/>
+■ Entity Framework (Database First – Code First) <br/>
+■ Entity Framework Core <br/>
+■ ADO.net & LINQ <br/>
+■ Restful API <br/>
+■ SignalR <br/>
+■ Html – CSS – JavaScript <br/>
+■ jQuery – jQuery Ajax <br/>
+■ React JS <br/>
+■ Windows Applications Basics <br/>
+■ Xamarin Android Basics <br/>
+■ TFS, Git, GitHub <br/>
+■ Microservices, SOA <br/>
+■ Design Pattern <br/>
+■ Solid Design Principles <br/>
 
