@@ -1,10 +1,9 @@
-### Hi there 👋
+### Hi there 👋 Iam Ata Sabri Ahmed
+
+### .Net & .Net Core Developer
+
 
 <!--
-**Atasabri/Atasabri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -14,3 +13,26 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+ #### Skills 
+
+■ .Net & .Net Core Framework
+■ C# Programming Language
+■ Python Programming Language
+■ OOP (Object Oriented Programming)
+■ Asp.net (Web Forms – MVC – Core)
+■ SQL Server
+■ Entity Framework (Database First – Code First)
+■ Entity Framework Core
+■ ADO.net & LINQ
+■ Restful API
+■ SignalR
+■ Html – CSS – JavaScript
+■ jQuery – jQuery Ajax
+■ React JS
+■ Windows Applications Basics
+■ Xamarin Android Basics
+■ TFS, Git, GitHub
+■ Microservices, SOA
+■ Design Pattern
+■ Solid Design Principles
+
