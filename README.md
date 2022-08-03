@@ -23,6 +23,9 @@
 ■ SQL Server  <br/>
 ■ Entity Framework (Database First – Code First) <br/>
 ■ Entity Framework Core <br/>
+■ Umbraco CMS <br/>
+■ Unit & Intergration Testing <br/>
+■ IdentityServer4 <br/>
 ■ ADO.net & LINQ <br/>
 ■ Restful API <br/>
 ■ SignalR <br/>
